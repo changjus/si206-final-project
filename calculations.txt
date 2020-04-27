@@ -1,0 +1,115 @@
+City, Average Rating
+Detroit, 3.91
+Wyoming, 4.5
+Sterling Heights, 4.0
+Madison Heights, 4.17
+Ypsilanti, 3.85
+East Lansing, 3.75
+Macomb, 3.67
+Flint, 3.78
+Burton, 3.25
+Grand Blanc, 3.38
+Dearborn, 4.05
+Dearborn Heights, 4.1
+Allen Park, 3.75
+Livonia, 3.95
+Northville, 3.5
+Westland, 3.5
+Canton, 3.77
+Plymouth, 3.68
+Shelby charter Township, 3.5
+Farmington Hills, 3.88
+West Bloomfield, 3.56
+Redford, 4.25
+Kalamazoo, 3.81
+Rochester Hills, 3.65
+Auburn Hills, 2.81
+Oak Park, 3.95
+Birmingham, 3.98
+Pontiac, 3.5
+Southgate, 3.5
+Taylor, 3.25
+Wyandotte, 3.5
+Waterford, 4.5
+St. Clair Shores, 3.5
+Eastpointe, 3.25
+Roseville, 3.83
+Ferndale, 4.0
+Garden City, 3.92
+Kentwood, 3.0
+Battle Creek, 2.83
+Georgetown, 3.54
+Saginaw, 3.15
+Chesterfield, 3.71
+Commerce, 4.5
+Pittsfield, 3.33
+Independence, 3.42
+Bay City, 3.7
+Jackson, 3.67
+White Lake, 3.75
+Highland, 4.06
+Mount Pleasant, 3.91
+Lincoln Park, 3.5
+Allendale, 3.75
+Romulus, 2.9
+Oxford, 4.0
+Hamtramck, 4.0
+Hamburg, 3.6
+
+City, Average Price
+Detroit, 2.14
+Wyoming, 2.0
+Sterling Heights, 1.75
+Madison Heights, 1.5
+Ypsilanti, 1.46
+East Lansing, 1.5
+Macomb, 1.0
+Flint, 1.56
+Burton, 1.5
+Grand Blanc, 1.25
+Dearborn, 1.7
+Dearborn Heights, 1.4
+Allen Park, 1.67
+Livonia, 1.55
+Northville, 1.67
+Westland, 1.54
+Canton, 1.73
+Plymouth, 1.91
+Shelby charter Township, 3.0
+Farmington Hills, 1.75
+West Bloomfield, 1.75
+Redford, 1.0
+Kalamazoo, 1.56
+Rochester Hills, 1.6
+Auburn Hills, 2.0
+Oak Park, 1.82
+Birmingham, 2.35
+Pontiac, 1.5
+Southgate, 1.2
+Taylor, 1.5
+Wyandotte, 2.0
+Waterford, 1.0
+St. Clair Shores, 2.0
+Eastpointe, 1.5
+Roseville, 1.87
+Ferndale, 2.0
+Garden City, 2.33
+Kentwood, 1.5
+Battle Creek, 1.0
+Georgetown, 1.83
+Saginaw, 1.8
+Chesterfield, 2.0
+Commerce, 2.0
+Pittsfield, 2.17
+Independence, 1.38
+Bay City, 1.2
+Jackson, 1.58
+White Lake, 2.0
+Highland, 1.89
+Mount Pleasant, 2.09
+Lincoln Park, 1.0
+Allendale, 2.0
+Romulus, 2.0
+Oxford, 1.5
+Hamtramck, 2.0
+Hamburg, 1.8
